@@ -1,16 +1,14 @@
-{
-  "tracks": [
-              {
-                "id": 1,
-                "title": "helwa elbedayat",
-                "Artist":"amr diab",
-                "imageUrl":"https://www.egypttoday.com/images/larg/50469.jpg"
-              },  
-               {
-                "id": 2,
-                "title": "kfayak A3zar",
-                "Artist":"Tamer Hosney",
-                "imageUrl":"https://i1.sndcdn.com/artworks-000393034113-ciwb2e-t500x500.jpg"
-              }
-  ]
-}
+[
+  {
+    "id": 1,
+    "title": "Post 1"
+  },
+  {
+    "id": 2,
+    "title": "Post 2"
+  },
+  {
+    "id": 3,
+    "title": "Post 3"
+  }
+]
