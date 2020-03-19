@@ -3,6 +3,9 @@
     { "id": 1, "title": "Post 1" , "artist":"Amr diab" ,"imageUrl":"https://i2.wp.com/see.news/wp-content/uploads/2019/09/212.jpg?fit=600%2C338&ssl=1"},
     { "id": 2, "title": "Post 2" , "artist":"Hamaki" ,"imageUrl":"https://i.scdn.co/image/ab67616d0000b273e58b4c14fe016c4cbbb54903"},
     { "id": 3, "title": "Boss Man " , "artist":"Rich the kid" ,"imageUrl":"https://i.scdn.co/image/ab67616d0000b2739341dc9579cfd77b02a45fa0"}
+    { "id": 4, "title": "Oprah’s Bank Account (Lil Yachty & DaBaby feat. Drake)" , "artist":"Lil Yachty" ,"imageUrl":"https://i.scdn.co/image/ab67616d0000b273e58b4c14fe016c4cbbb54903"},
+    { "id": 5, "title": "laila" , "artist":"Hamaki" ,"imageUrl":"https://i1.wp.com/see.news/wp-content/uploads/2019/12/mohamed-hamaki.jpg?resize=600%2C338&ssl=1"},
+    { "id": 6, "title": "Post 1" , "artist":"Amr diab" ,"imageUrl":"https://i2.wp.com/see.news/wp-content/uploads/2019/09/212.jpg?fit=600%2C338&ssl=1"},
     
   ]
 }
