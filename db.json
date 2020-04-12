@@ -1,5 +1,5 @@
-{ "data":[
-  "playlist": [
+{ 
+  "tracks": [
     { "id": 1, "name": "HeartBreak Weather" , "owner":"Nial Horran" ,"images":"https://i.scdn.co/image/ab67616d0000b2733d13e91ce05c4e9b3e7201b7"},
     { "id": 2, "name": "Post 2" , "owner":"Hamaki" ,"images":"https://i.scdn.co/image/ab67616d0000b273e58b4c14fe016c4cbbb54903"},
     { "id": 3, "name": "Boss Man " , "owner":"Rich the kid" ,"images":"https://i.scdn.co/image/ab67616d0000b2739341dc9579cfd77b02a45fa0"},
@@ -143,5 +143,4 @@
   { "id": 2, "description": "You changed Your password","time":"1 hour ago"},
   { "id": 3, "description": "You created a new playlist","time":"yesterday"}
   ]
- ]
 }
