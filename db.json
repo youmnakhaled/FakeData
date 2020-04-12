@@ -144,8 +144,8 @@
   { "id": 3, "description": "You created a new playlist","time":"yesterday"}
   ],
   "data":[
-  "playlist": [
     {
+      "playlist": [
     { "id": 1,
      "name": "HeartBreak Weather" ,
      "owner":[
