@@ -144,7 +144,6 @@
   { "id": 3, "description": "You created a new playlist","time":"yesterday"},
   { "id": 4, "description": "You created a new playlist","time":"yesterday"},
   { "id": 5, "description": "You created a new playlist","time":"yesterday"},
-  { "id": 6, "description": "You created a new playlist","time":"yesterday"},
-  { "id": 7, "description": "You created a new playlist","time":"yesterday"}
+  { "id": 6, "description": "You created a new playlist","time":"yesterday"}
   ]
 }
