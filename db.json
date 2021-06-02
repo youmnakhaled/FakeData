@@ -164,5 +164,26 @@
         {
            "url" : "https://javascript.info/while-for"
         }
-    ]
+    ],
+  "history": [
+        {
+            "word": "Apple"
+        },
+        {
+            "word": "pizza"
+        },
+        {
+            "word": "burger"
+        },
+        {
+             "word" : "Burger"
+        },
+        { 
+           "word" : "Amr"
+        },
+        {
+           "word" : "javascript"
+        }
+    ],
+  
 }
