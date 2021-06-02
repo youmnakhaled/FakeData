@@ -121,15 +121,6 @@
      ]
     }
   ],
-  "MyPlaylists": [
-  { "id": 1, "name": "NewPlaylist"},
-  { "id": 2, "name": "Fav"},
-  { "id": 3, "name": "newAmr diab"},
-  { "id": 4, "name": "sha3beyat"},
-  { "id": 5, "name": "Agdad aghany amr"},
-  { "id": 6, "name": "Ragol elkahf"},
-  { "id": 7, "name": "Tamer Ashour"}
-  ],
     "Recents": [
   { "id": 1, "description": "Youmna khaled is Now following you ","time":"10 minutes ago"},
   { "id": 2, "description": "You changed Your password","time":"1 hour ago"},
